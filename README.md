@@ -1,16 +1,13 @@
-## Hi there 👋
+### Omer Kandemir
 
-<!--
-**FKande/FKande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+San Francisco. Full-stack engineer with three years of running a real product
+end to end. Customer discovery, user testing, UI/UX and Figma, product
+decisions, and the engineering to ship all of it.
 
-Here are some ideas to get you started:
+The work I'm proudest of is the startup I co-founded,
+**[OfferPilot](https://offerpilotai.com/)**, a job search platform for CS
+students. I was the only engineer on it for the last stretch, which meant
+owning the whole thing: the job curation pipeline, the AI resume tooling,
+Stripe and subscriptions, the entire UI, and the growth that brought users in.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/omer-kandemir/)
