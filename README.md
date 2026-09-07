@@ -10,4 +10,5 @@ students. I was the only engineer on it for the last stretch, which meant
 owning the whole thing: the job curation pipeline, the AI resume tooling,
 Stripe and subscriptions, the entire UI, and the growth that brought users in.
 
-[LinkedIn](https://www.linkedin.com/in/omer-kandemir/)
+[LinkedIn](https://www.linkedin.com/in/omer-kandemir/) &nbsp;·&nbsp; farukkandemir999@gmail.com
+
