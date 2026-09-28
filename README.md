@@ -6,7 +6,7 @@ decisions, and the engineering to ship all of it.
 
 The work I'm proudest of is the startup I co-founded,
 **[OfferPilot](https://offerpilotai.com/)**, a job search platform for CS
-students. I was the only engineer on it for the last stretch, which meant
+students. I was the solo founder for its last year, which meant
 owning the whole thing: the job curation pipeline, the AI resume tooling,
 Stripe and subscriptions, the entire UI, and the growth that brought users in.
 
