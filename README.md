@@ -1,4 +1,4 @@
-# Omer Kandemir
+### Omer Kandemir
 
 Product-minded full-stack engineer with a founder background and a strong eye for design. Currently a software engineer at **Resonate AI**.
 
